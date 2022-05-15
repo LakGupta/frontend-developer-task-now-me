@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap");
+
+.signup-modal{
+  margin: auto;
+
+}
+
+.form-dimensions {
+  width: 463px !important;
+  height: 506px !important;
+  background-color: #27292d;
+  border: 2px solid;
+  border-image: linear-gradient(90deg, #969696 , #343434);
+  border-image-slice: 1;
+  border-radius: 8px;
+
+}
+
+.form-control {
+  max-width: 415px;
+  max-height: 43px;
+  margin-left: 24px;
+  margin-right: 24px;
+  border: 1.5px solid #35373b !important;
+  background-color: #27292d !important ;
+}
+
+.form-label {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  margin-block-end: 0 !important;
+  margin-block-start: 0 !important;
+  color: #c5c7ca;
+}
+
+.password-custom-width {
+  margin-right: 349px;
+}
+
+.custom-heading {
+  color: #6b6c70;
+  padding-top: 40px;
+}
+
+.custom-subheading {
+  color: #ffffff;
+}
+
+.label-inline {
+  display: inline;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+
+.btn-primary {
+  background-color: #4a96ff;
+  color: #ffffff;
+  width: 415px !important;
+  margin-left: 24px !important;
+}
+
+.forgot-password-custom {
+  width: 15px;
+}
+
+.password-custom {
+  margin-left: 24px !important;
+  width: 66px;
+}
+
+.email-custom {
+  margin-left: 24px !important;
+  width: 36px !important;
+}
+
+.username-custom{
+  width: 69px !important;
+  height: 17px !important;
+  margin-left: 24px !important;
+}
+
+.custom-ending {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color:#7F8084;
+  margin-right: 234px;
+  margin-left: 24px;
+  width: 230px !important;
+  height: 17px !important;
+  margin-bottom: 40px !important;
+
+}
+
+.custom-ending span {
+    color: #C5C7CA;
+    padding-top: 0 !important;
+}

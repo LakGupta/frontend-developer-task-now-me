@@ -1,0 +1,51 @@
+.post-content {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  width: 551px;
+  height: 75px;
+  margin: auto;
+  text-align: left;
+
+  color: #7f8084;
+}
+
+.post-area {
+  display: flex;
+  background-color: #191920;
+  border-radius: 8px;
+  width: 660px;
+  height: 107px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.post-emoticon {
+  margin-top: 15px;
+  margin-left: 16px;
+}
+
+.comments-icon {
+  
+  margin-right: 8.67px;
+}
+
+.comments {
+  display: flex;
+  margin-top: 15.33px;
+  margin-left: 22.67px;
+  align-items: center;
+}
+
+.comments-number {
+  color: #7f8084;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  width: 92px;
+  height: 17px;
+}

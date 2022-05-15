@@ -1,0 +1,72 @@
+div {
+  color: white;
+}
+
+.posts-container {
+  width: 700px;
+  height: 223px;
+  border: 2px solid #35373b;
+  background-color: #27292d;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.posts-container .create-post-text {
+  margin-right: 559px;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+.posts-header {
+  width: 690px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+.posts-header h3 {
+  color: #c5c7ca;
+}
+
+.posts-header p {
+  color: #7f8084;
+}
+
+.content-area {
+  border-radius: 8px;
+  background-color: #191920;
+  width: 660px;
+  height: 78px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-default {
+  margin-right: 374px;
+  margin-top: 14px;
+}
+
+.input-background {
+  background-color: #191920;
+}
+
+.btn {
+  width: 111px;
+  height: 43px;
+  margin-left: 549px;
+  margin-top: 16px;
+  margin-bottom: 24px;
+}
+
+.content-area span {
+  margin-right: 374px;
+  display: inline-block;
+  padding-top: 25.8px !important;
+}
+
+.iconStyle {
+  height: 48px;
+  width: 48px;
+  border-radius: 50%;
+  background-color: #191920;
+}

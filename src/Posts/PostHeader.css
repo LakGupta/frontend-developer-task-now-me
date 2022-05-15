@@ -1,0 +1,38 @@
+
+  
+  .post-header {
+    display: flex;
+    margin-top: 24px;
+    margin-left: 20px;
+    align-items: center;
+  }
+  
+  .name-header {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    width: 111px;
+    height: 19px;
+    color: #c5c7ca;
+  }
+  
+  .time-consumed-header {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #7f8084;
+  }
+  
+  .image-header {
+    margin-right: 16px;
+    height: 44px;
+    width: 44px;
+    text-align: center;
+  }
+  
+  .information-header {
+    text-align: left;
+  }

@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap");
+.loginpage .form-dimensions {
+  margin: auto;
+  margin-top: 150px;
+  max-width: 463px;
+  height: 420px;
+  background-color: #27292d;
+  border: 2px solid;
+  border-image: linear-gradient(90deg, #969696 , #343434);
+  border-image-slice: 1;
+  border-radius: 8px;
+
+}
+
+.loginpage .form-control {
+  max-width: 415px;
+  max-height: 43px;
+  margin-left: 24px;
+  margin-right: 24px;
+  border: 1.5px solid #35373b !important;
+  background-color: #27292d !important;
+}
+
+.loginpage .form-label {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  margin-block-end: 0;
+  margin-block-start: 0;
+  color: #c5c7ca;
+}
+
+.loginpage .password-custom-width {
+  margin-right: 349px;
+}
+
+.loginpage .custom-heading {
+  color: #6b6c70;
+  padding-top: 40px;
+}
+
+.loginpage .custom-subheading {
+  color: #ffffff;
+}
+
+.loginpage .label-inline {
+  display: inline;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+
+.loginpage .btn-primary {
+  background-color: #4a96ff;
+  color: #ffffff;
+  width: 415px !important;
+  margin-left: 0 !important;
+}
+
+.loginpage .forgot-password-custom {
+  width: 15px;
+}
+
+ .loginpage .password-custom-login {
+  margin-right: 234px;
+  width: 66px;
+}
+
+.loginpage .email-custom-login {
+  margin-right: 289px;
+  width: 126px !important;
+}
+
+.loginpage .custom-ending {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color:#7F8084;
+  margin-right: 234px;
+  margin-left: 20px;
+  margin-bottom: 24px !important;
+  width: 205px !important;
+  height: 17px !important;
+
+}
+
+.loginpage span{
+    color: #C5C7CA;
+    margin-right: 0px !important;
+    margin-top: 0 !important;
+}
