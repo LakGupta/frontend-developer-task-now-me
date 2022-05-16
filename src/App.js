@@ -57,7 +57,7 @@ function App() {
         <LoginPage onSubmitLogin={submitLoginHandler}></LoginPage>
       )}
       {isLoggedIn && (
-        <div>
+        <div className="posts-area">
           { registerIsShown && <Signup onCloseRegister={hideRegisterHandler} ></Signup>} 
           <NewPost onShowRegister={showRegisterHandler} ></NewPost>
           <PostList items={expenses}></PostList>{" "}

@@ -89,3 +89,8 @@
     transform: rotate(360deg);
   }
 }
+
+.posts-area{
+  animation: slide-down 500ms ease-out forwards !important;
+
+}
